@@ -38,9 +38,8 @@
       }
     ],
     "uniqCompNum": 7,
-    "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png",
-    "imageResize": true
+    "versionPublish": "4.11.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
